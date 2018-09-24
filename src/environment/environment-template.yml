@@ -1,0 +1,8 @@
+server:
+  port:
+
+db:
+  host:
+
+telegram:
+  token:
