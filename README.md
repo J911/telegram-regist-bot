@@ -6,6 +6,13 @@
 
 텔레그램으로 메시지를 전송하면 데이터베이스에 등록되고, api 호출로 이를 불러올 수 있습니다.
 
+## stack
+- node js
+- typescript
+- telebot
+- yaml
+- mongoose
+
 ## build
 프로젝트 클론하기🔥🔥
 ```
