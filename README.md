@@ -1,6 +1,8 @@
 # telegram-regist-bot
 💬telegram chat bot
 
+[제이구일일의 개발 블로그](https://j911.me)의 [타입스크립트로 텔레그램 챗봇 만들기](https://j911.me/2018/09/create-telegrambot-with-typescript.html)에서 다룬 예제입니다.
+
 ## 이것은 무엇인가요?
 이것은 텔레그램 챗봇을 공부해기 위해 만들어본 작은 프로젝트입니다.
 
